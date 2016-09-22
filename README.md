@@ -3,8 +3,9 @@ Starter Template for a Django project that will be deployed to AWS Elastic Beans
 This is a quick template to use if you know you'll be deploying to Amazon Web Services using the Elastic Beanstalk deployment service (combination of EC2, RDS, S3).
 
 # Installation
-- git clone https://github.com/awwester/django-spa
-- pip install -r requirements.txt
+`git clone https://github.com/awwester/django-elastic-beanstalk <project_name>`
+`cd <project_name>`
+`pip install -r requirements.txt`
 
 # Deployment
 This repository provides all the code you need, but you'll still need to create
