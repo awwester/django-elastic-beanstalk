@@ -4,7 +4,9 @@ This is a quick template to use if you know you'll be deploying to Amazon Web Se
 
 # Installation
 `git clone https://github.com/awwester/django-elastic-beanstalk <project_name>`
+
 `cd <project_name>`
+
 `pip install -r requirements.txt`
 
 # Deployment
