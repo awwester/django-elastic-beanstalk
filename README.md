@@ -21,6 +21,8 @@ out soon that will take you through this whole process.
 - eb deploy
 - success
 
+# Options
+
 ### Postgres
 If you would like to install Postgres with your Elastic Beanstalk deployment, you
 can checkout the postgres branch (`git checkout postgres`) which will add the proper settings and server package. **Note: You'll still need to create a Postgres database in the AWS Console**
