@@ -1,3 +1,5 @@
+** This is an out of date respository and should not be used, but will keep for historical reference **
+
 # Django Elastic Beanstalk
 Starter Template for a Django project that will be deployed to AWS Elastic Beanstalk.
 This is a quick template to use if you know you'll be deploying to Amazon Web Services using the Elastic Beanstalk deployment service (combination of EC2, RDS, S3).
