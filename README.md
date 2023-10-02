@@ -1,4 +1,4 @@
-** This is an out of date respository and should not be used, but will keep for historical reference **
+**This is an out of date respository and should not be used, but will keep for historical reference**
 
 # Django Elastic Beanstalk
 Starter Template for a Django project that will be deployed to AWS Elastic Beanstalk.
